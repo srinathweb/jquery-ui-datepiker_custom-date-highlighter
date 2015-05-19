@@ -1,5 +1,5 @@
-# jquery-ui-datepiker_custom-date-highlighter
-you can Easily highlight dates on jquery ui datepiker with external csv file
+# jquery ui date picker custom date heighlighter
+you can Easily  Heighlight dates on jquery ui datepicker with external csv file
 
 ##sample useage
 
