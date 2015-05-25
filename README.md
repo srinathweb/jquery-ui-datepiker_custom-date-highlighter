@@ -1,5 +1,13 @@
 # jquery ui date picker custom date heighlighter
 you can Easily  Heighlight dates on jquery ui datepicker with external csv file
+highlight specific dates in Jquery UI Datepicker. It pretty simple actually, 
+
+Here are steps which we will be following to highlight particular dates in datepicker:
+
+    We use csv file to hold the dates which will be highlighted.
+    We will utilize  datepicker beforeShowDay function to add custom CSS classes to the dates in csv
+ 
+
 
 ##sample useage
 
